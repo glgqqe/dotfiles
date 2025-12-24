@@ -1,5 +1,5 @@
 # dotfiles
-https://gachi.gay/sGqXP3
+https://gachi.gay/sGqXP3.png
 ### OS: Arch Linux
 ### WM: SwayWM
 ### Term: kitty
